@@ -4,7 +4,7 @@
 - LangChain for developing intelligent AI-powered applications<br>
 - Generative AI & Large Language Models (LLMs)
 
-<br>👨‍💻 All of my projects are available at [https://github.com/amirshaikh321](https://github.com/amirshaikh321)<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1alLi3HPbmN5t8CzIZY3mAgg8rJPQi4FI/view?usp=sharing](https://drive.google.com/file/d/13crN9vh_kSG7MgnHf1u__W8rQE8NxObg/view?usp=sharing)<br><br>💬 Ask Me About:<br>Solving Machine Learning problems, model design decisions, and improving model performance.<br><br>🎯 Career Focus:<br>Actively building skills in AI, Deep Learning, and Generative AI to work on impactful, data-driven solutions.<br><br>⚡ Fun Fact:<br>I enjoy continuously learning new technologies and applying them to solve challenging problems.
+<br>🌐 Portfolio: [https://amir-shaikh-portfolio.onrender.com](https://amir-shaikh-portfolio.onrender.com/)<br><br>👨‍💻 All of my projects are available at [https://github.com/amirshaikh321](https://github.com/amirshaikh321)<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1alLi3HPbmN5t8CzIZY3mAgg8rJPQi4FI/view?usp=sharing](https://drive.google.com/file/d/13crN9vh_kSG7MgnHf1u__W8rQE8NxObg/view?usp=sharing)<br><br>💬 Ask Me About:<br>Solving Machine Learning problems, model design decisions, and improving model performance.<br><br>🎯 Career Focus:<br>Actively building skills in AI, Deep Learning, and Generative AI to work on impactful, data-driven solutions.<br><br>⚡ Fun Fact:<br>I enjoy continuously learning new technologies and applying them to solve challenging problems.
 
 
 
